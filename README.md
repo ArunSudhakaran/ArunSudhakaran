@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ArunSudhakaran
+- 👋 Hi, I’m @Arunkumar_Sudhakaran_Nair
 - 👀 I’m interested in ...Fraud Analytics, Risk Anakytics, Data Analytics
-- 🌱 I’m currently learning ...SQL, AML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 0892438566
+- 🌱 I’m currently learning ...SQL & AML
+- 📫 How to reach me ... +3530892438566
 
 <!---
 ArunSudhakaran/ArunSudhakaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
