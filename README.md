@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arunkumar_Sudhakaran_Nair
-- 👀 I’m interested in ...Fraud Analytics, Risk Anakytics, Data Analytics
+- 👀 I’m interested in ...Fraud Analytics, Risk Anakytics, Data Analytics, AML and Compliance Roles
 - 🌱 I’m currently learning ...SQL & AML
 - 📫 How to reach me ... +3530892438566
 
